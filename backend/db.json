@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Thaísa Carrijo",
+      "email": "carrijothaisa@gmail.com",
+      "adress": "Rua das Batatas",
+      "number": "1254",
+      "id": 5
+    },
+    {
+      "id": 8,
+      "name": "Silvio Santos Abravanel",
+      "email": "santos@hotmail.com",
+      "adress": "Rua do SBT",
+      "number": "654"
+    },
+    {
+      "name": "João Paulo Carrijo Barbosa",
+      "email": "carrijo@gmail.com",
+      "adress": "Rua dos Buffallus",
+      "number": "1587",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Matheus Carrijo",
+      "email": "carrijomatheus@gmail.com",
+      "adress": "Rua dos Chororo",
+      "number": "1254"
+    },
+    {
+      "id": 12,
+      "name": "Hebe Camargo",
+      "email": "camargo@hotmail.com",
+      "adress": "Ruas das Loiras",
+      "number": "236"
+    },
+    {
+      "name": "Carlos \"Ratinho\" Massa",
+      "email": "massa@hotmail.com",
+      "adress": "Ruas dos Cafés",
+      "number": "4521",
+      "id": 13
+    },
+    {
+      "name": "Fausto Silva",
+      "email": "silvafausto@gmail.com",
+      "adress": "Rua da Band",
+      "number": "5478",
+      "id": 14
+    },
+    {
+      "name": "Eliana Lima",
+      "email": "limaeliana@hotmail.com",
+      "adress": "Ruas dos Dedinhos",
+      "number": "25478",
+      "id": 15
+    },
+    {
+      "name": "Rodrigo Faro",
+      "email": "faro@gmail.com",
+      "adress": "Rua das Danças",
+      "number": "5896",
+      "id": 16
+    },
+    {
+      "name": "Gustavo Villani",
+      "email": "villani@htmail.com",
+      "adress": "Rua da Sport",
+      "number": "1478",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "name": "Ana Maria Braga",
+      "email": "braga@hotmail.com",
+      "adress": "Rua das Meninas",
+      "number": "1254"
+    },
+    {
+      "id": 19,
+      "name": "Tadeu Smith",
+      "email": "smith@gmail.com",
+      "adress": "Rua do BBB",
+      "number": "1258"
+    },
+    {
+      "name": "Celso Portioli",
+      "email": "portioli@hotmail.com",
+      "adress": "Rua do Domingo",
+      "number": "5784",
+      "id": 20
+    }
+  ]
+}
